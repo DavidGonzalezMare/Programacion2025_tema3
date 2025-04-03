@@ -1,10 +1,10 @@
-﻿![](Aspose.Words.1adbf6a9-929a-43b1-a25d-9db03d0cd98f.001.jpeg)                       ![](Aspose.Words.1adbf6a9-929a-43b1-a25d-9db03d0cd98f.002.jpeg)                                   ![PEQU_COL](Aspose.Words.1adbf6a9-929a-43b1-a25d-9db03d0cd98f.003.png)
+﻿![](./images/imagen01.jpeg)                       ![](Aspose.Words.1adbf6a9-929a-43b1-a25d-9db03d0cd98f.002.jpeg)                                   ![PEQU_COL](Aspose.Words.1adbf6a9-929a-43b1-a25d-9db03d0cd98f.003.png)
 
 *Programación		                                   Tema 3. Sentencias de Control de Flujo*
 
 # Sentencias de Control de Flujo
 
-[1.	Introducción	1](#_toc113270628)
+[1.	Introducción	1](#_apartado1)
 
 [2.	Sentencias Condicionales.	2](#_toc113270629)
 
@@ -17,7 +17,7 @@
 
 
 
-1. # <a name="_toc113270628"></a>**Introducción**
+1. # <a name="_apartado1"></a>**Introducción**
    `	`El orden en que se ejecutan las distintas instrucciones de un programa se denomina *flujo de control*. 
 
    `	`Los programas que hemos visto en el tema anterior presentaban un flujo de control **secuencial**, es decir, las instrucciones se ejecutaban siempre una detrás de otra en el orden en el que aparecían en los subprogramas. Este orden secuencial nos limita el abanico de problemas que podemos resolver.
@@ -42,7 +42,7 @@
 
    En la sentencia *if()* si al evaluar la expresión lógica el resultado es **true**, se ejecuta la sentencia o sentencias que pertenezcan al if, si es **false** no se ejecuta nada y se pasa a la siguiente sentencia posterior a la sentencia *if*.
 
-   ![](Aspose.Words.1adbf6a9-929a-43b1-a25d-9db03d0cd98f.004.jpeg "2")
+   ![If](Aspose.Words.1adbf6a9-929a-43b1-a25d-9db03d0cd98f.004.jpeg "2")
 
    La sintaxis de la sentencia if es la siguiente:
 
